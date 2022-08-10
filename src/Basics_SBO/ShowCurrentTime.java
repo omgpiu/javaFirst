@@ -1,4 +1,4 @@
-package SBO_LessonTwo;
+package Basics_SBO;
 
 public class ShowCurrentTime {
     public static void main(String[] args) {

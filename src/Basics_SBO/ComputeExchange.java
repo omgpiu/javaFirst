@@ -1,4 +1,4 @@
-package SBO_LessonTwo;
+package Basics_SBO;
 
 import java.util.Scanner;
 
